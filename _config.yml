@@ -1,1 +1,3 @@
 remote-theme: https://github.com/pmarsceill/just-the-docs
+
+theme: jekyll-theme-cayman
